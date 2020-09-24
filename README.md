@@ -1,11 +1,6 @@
 ![static int lucas;][headerimg]
 
-### Real name: Lucas Jansen
-
-[:baby_chick: twitter][twitterurl]  
-[:octocat: github][githuburl]
-
----
+# Hi
 
 I am an electronic and software engineer from Cork, Ireland. I have a master's degree Electrical and
 Electronic engineering, and I currently work on embedded software at Qualcomm.
@@ -19,3 +14,8 @@ scared by anything web related.
 [headerimg]: https://raw.githubusercontent.com/staticintlucas/staticintlucas/master/header.png
 [twitterurl]: https://twitter.com/staticintlucas
 [githuburl]: https://github.com/staticintlucas
+
+---
+
+[:baby_chick: Twitter][twitterurl]  
+[:octocat: Github][githuburl]
