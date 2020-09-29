@@ -2,8 +2,8 @@
 
 # Hi
 
-I am an electronic and software engineer from Cork, Ireland. I have a master's degree Electrical and
-Electronic engineering, and I currently work on embedded software at Qualcomm.
+I am an electronic and software engineer from Cork, Ireland. I have a master's degree in Electrical 
+and Electronic engineering, and I currently work on embedded software at Qualcomm.
 
 - I know C, Python, (some) C++, a bit of Rust, and a couple of flavours of assembly.
 - I'm constantly working on some random project. I eventually end up losing interest in most, but
