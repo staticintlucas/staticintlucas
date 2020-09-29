@@ -11,11 +11,13 @@ it's a habit I'm trying *really* hard to break.
 - I work on pretty much everything hardware or low-level software, but I get easily scared by
 anything web related.
 
-[headerimg]: https://raw.githubusercontent.com/staticintlucas/staticintlucas/master/header.png
-[twitterurl]: https://twitter.com/staticintlucas
-[githuburl]: https://github.com/staticintlucas
-
 ---
 
+[:computer: Website][websiteurl]  
 [:baby_chick: Twitter][twitterurl]  
-[:octocat: Github][githuburl]
+[:octocat: Github][githuburl]  
+
+[headerimg]: https://raw.githubusercontent.com/staticintlucas/staticintlucas/master/header.png
+[websiteurl]: https://staticintlucas.github.io
+[twitterurl]: https://twitter.com/staticintlucas
+[githuburl]: https://github.com/staticintlucas
