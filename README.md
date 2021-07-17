@@ -2,7 +2,7 @@
 
 # Hi
 
-I am an electronic and software engineer from Cork, Ireland. I have a master's degree in Electrical 
+I am an electronic and software engineer from Cork, Ireland. I have a master's degree in Electrical
 and Electronic engineering, and I currently work on embedded software at Qualcomm.
 
 - I know C, Python, (some) C++, a bit of Rust, and a couple of flavours of assembly.
@@ -13,11 +13,11 @@ anything web related.
 
 ---
 
-[:computer: Website][websiteurl]  
-[:baby_chick: Twitter][twitterurl]  
-[:octocat: Github][githuburl]  
+[:computer: Website][websiteurl]\
+[:man_student: LinkedIn][linkedinurl]\
+[:octocat: Github][githuburl]
 
 [headerimg]: https://raw.githubusercontent.com/staticintlucas/staticintlucas/master/header.png
 [websiteurl]: https://staticintlucas.github.io
-[twitterurl]: https://twitter.com/staticintlucas
+[linkedinurl]: https://www.linkedin.com/in/ljansen0
 [githuburl]: https://github.com/staticintlucas
