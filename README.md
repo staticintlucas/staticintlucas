@@ -16,6 +16,11 @@ anything web related. I did make this website though, so that's something.
 [:man_student: LinkedIn][linkedinurl]\
 [:octocat: Github][githuburl]
 
+---
+
+<img align="top" alt="Lucas' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=staticintlucas&count_private=true&show_icons=true&custom_title=Lucas%27%20Github%20Stats">
+<img align="top" alt="Lucas' Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staticintlucas&langs_count=4">
+
 [websiteurl]: https://staticintlucas.github.io
 [linkedinurl]: https://www.linkedin.com/in/ljansen0
 [githuburl]: https://github.com/staticintlucas
