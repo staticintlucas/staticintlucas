@@ -1,16 +1,9 @@
-# Hi
+<image align="right" width="250" src="https://media.giphy.com/media/tgopAbWGbONe7Maow3/giphy.gif">
 
-My name is Lucas and I am an electronic and software engineer from Cork, Ireland. I have a master's
-degree in Electrical and Electronic engineering, and I currently work on embedded software at
-Qualcomm.
+# Hi, I'm Lucas :point_left::sunglasses::point_left:
 
-- I know C, Python, (some) C++, a bit of Rust, and a couple of flavours of assembly.
-- I'm constantly working on some random project. I eventually end up losing interest in most, but
-it's a habit I'm trying *really* hard to break.
-- I work on pretty much everything hardware or low-level software, but I get often scared by
-anything web related. I did make this website though, so that's something.
-
----
+*Embedded Software Engineer at [Qualcomm]*\
+*Masters degree in Electrical & Electronic Engineering from [UCC]*
 
 [:computer: Website][websiteurl]\
 [:man_student: LinkedIn][linkedinurl]\
@@ -18,9 +11,15 @@ anything web related. I did make this website though, so that's something.
 
 ---
 
-<img align="top" alt="Lucas' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=staticintlucas&count_private=true&show_icons=true&custom_title=Lucas%27%20Github%20Stats">
-<img align="top" alt="Lucas' Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staticintlucas&langs_count=4">
+![GitHub Stats][github-stats-img]
+![Most Used Languages][languages-img]
+
+[qualcomm]: https://www.qualcomm.com/
+[ucc]: https://www.ucc.ie/
 
 [websiteurl]: https://staticintlucas.github.io
 [linkedinurl]: https://www.linkedin.com/in/ljansen0
 [githuburl]: https://github.com/staticintlucas
+
+[github-stats-img]: https://github-readme-stats.vercel.app/api?username=staticintlucas&count_private=true&custom_title=Lucas%27%20Github%20Stats&disable_animations=true&title_color=58a6ff&icon_color=8b8b8b&text_color=8b8b8b&bg_color=00000000&show_icons=true&hide_border=true&card_width=800
+[languages-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=staticintlucas&langs_count=4&custom_title=Most%20Used%20Languages%20%28On%20GitHub%29&title_color=58a6ff&icon_color=8b8b8b&text_color=8b8b8b&bg_color=ffffff00&show_icons=true&hide_border=true&card_width=472
