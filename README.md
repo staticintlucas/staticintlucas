@@ -12,9 +12,9 @@ anything web related. I did make this website though, so that's something.
 
 ---
 
-[![Link icon](icons.svg#link) Website][websiteurl]\
-[![LinkedIn icon](icons.svg#linkedin) LinkedIn][linkedinurl]\
-[![GitHub icon](icons.svg#octocat) Github][githuburl]
+[:computer: Website][websiteurl]\
+[:man_student: LinkedIn][linkedinurl]\
+[:octocat: Github][githuburl]
 
 [websiteurl]: https://staticintlucas.github.io
 [linkedinurl]: https://www.linkedin.com/in/ljansen0
