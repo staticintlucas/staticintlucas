@@ -45,7 +45,7 @@
 <!-- Images -->
 
 [github-stats]: https://github-readme-stats.vercel.app/api?username=staticintlucas&count_private=true&custom_title=Lucas%27%20Github%20Stats&disable_animations=true&title_color=58a6ff&icon_color=8b8b8b&text_color=8b8b8b&bg_color=00000000&line_height=27&show_icons=true&hide_border=true
-[language-stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=staticintlucas&langs_count=3&custom_title=Most%20Used%20Languages%20%28On%20GitHub%29&title_color=58a6ff&icon_color=8b8b8b&text_color=8b8b8b&bg_color=ffffff00&show_icons=true&hide_border=true&card_width=472
+[language-stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=staticintlucas&langs_count=3&custom_title=Most%20Used%20Languages%20%28On%20GitHub%29&title_color=58a6ff&icon_color=8b8b8b&text_color=8b8b8b&bg_color=ffffff00&show_icons=true&hide_border=true&card_width=343
 
 <!-- Icons -->
 
@@ -64,4 +64,4 @@
 [website-icon]: https://img.shields.io/badge/website-%23417c8c.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAxNCAxNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJNMCAwdjE0aDE0di0xNHpNMS41IDVoMi41bDAgNS41YzAgMC43NSAwLjUgMC43NSAxLjUgMC41bDAuMyAwLjhjLTEuMyAwLjQ1LTIuOCAwLjQ1LTIuOC0xLjN2LTQuNWgtMS41eiIvPjwvc3ZnPg==
 [github-icon]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 
-[hits]: http://visitor-badge-reloaded.herokuapp.com/badge?page_id=staticintlucas.staticintlucas&text=Page%20Views&style=for-the-badge
+[hits]: http://visitor-badge-reloaded.herokuapp.com/badge?page_id=staticintlucas.staticintlucas&text=Page_Views&style=for-the-badge
