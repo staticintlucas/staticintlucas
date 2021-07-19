@@ -1,9 +1,10 @@
 <image align="right" width="250" src="https://media.giphy.com/media/Ih6NnugfrRa3UmyWO3/giphy.gif">
 
-# Hi, I'm Lucas :point_left::sunglasses::point_left:
+## Hi, I'm Lucas
 
-*Embedded Software Engineer at [Qualcomm]*\
-*Masters degree in Electrical & Electronic Engineering from [UCC]*
+- *Embedded Software Engineer at [Qualcomm]*
+- *Masters degree in Electrical & Electronic Engineering from [UCC]*
+- *Electronics Enthusiast*
 
 [:computer: Website][websiteurl]\
 [:man_student: LinkedIn][linkedinurl]\
