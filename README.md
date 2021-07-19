@@ -1,4 +1,4 @@
-<image align="right" width="250" src="https://media.giphy.com/media/tgopAbWGbONe7Maow3/giphy.gif">
+<image align="right" width="250" src="https://media.giphy.com/media/Ih6NnugfrRa3UmyWO3/giphy.gif">
 
 # Hi, I'm Lucas :point_left::sunglasses::point_left:
 
