@@ -1,4 +1,4 @@
-<image align="right" width="250" src="https://media.giphy.com/media/Ih6NnugfrRa3UmyWO3/giphy.gif">
+<image align="right" width="250" src="https://media.giphy.com/media/VFrIuwfaJBc65q5suY/source.gif">
 
 ## Hi, I'm Lucas
 
@@ -29,7 +29,7 @@
 
 ---
 
-![github-stats]![language-stats]
+[![github-stats]][stats-repo]
 
 ![hits]
 
@@ -41,11 +41,11 @@
 [website]: https://staticintlucas.github.io
 [linkedin]: https://www.linkedin.com/in/ljansen0
 [github]: https://github.com/staticintlucas
+[stats-repo]: https://github.com/staticintlucas/readme-stats
 
 <!-- Images -->
 
-[github-stats]: https://github-readme-stats.vercel.app/api?username=staticintlucas&count_private=true&custom_title=Lucas%27%20Github%20Stats&disable_animations=true&title_color=58a6ff&icon_color=8b8b8b&text_color=8b8b8b&bg_color=00000000&line_height=27&show_icons=true&hide_border=true
-[language-stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=staticintlucas&langs_count=3&hide=scss,html&custom_title=Most%20Used%20Languages%20(On%20GitHub)&title_color=58a6ff&icon_color=8b8b8b&text_color=8b8b8b&bg_color=ffffff00&show_icons=true&hide_border=true&card_width=343
+[github-stats]: https://github.com/staticintlucas/readme-stats/blob/main/output/stats.svg
 
 <!-- Icons -->
 
