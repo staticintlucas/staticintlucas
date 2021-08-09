@@ -27,10 +27,7 @@
 [![linkedin-icon]][linkedin]
 [![github-icon]][github]
 
----
-
-[![github-stats]][stats-repo]
-
+[![github-stats]][stats-repo]\
 <sup>*Created using [staticintlucas/readme-stats][stats-repo]*</sup>
 
 ![hits]
