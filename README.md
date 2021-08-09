@@ -31,6 +31,8 @@
 
 [![github-stats]][stats-repo]
 
+<sup>*Created using [staticintlucas/readme-stats][stats-repo]*</sup>
+
 ![hits]
 
 <!-- Links -->
