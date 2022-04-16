@@ -37,7 +37,7 @@
 [qualcomm]: https://www.qualcomm.com/
 [ucc]: https://www.ucc.ie/
 
-[website]: https://staticintlucas.github.io
+[website]: https://lucasjansen.me
 [linkedin]: https://www.linkedin.com/in/ljansen0
 [github]: https://github.com/staticintlucas
 [stats-repo]: https://github.com/staticintlucas/readme-stats
