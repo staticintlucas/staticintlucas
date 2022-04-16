@@ -3,7 +3,7 @@
 ## Hi, I'm Lucas
 
 - *Embedded Software Engineer at [Qualcomm]*
-- *Masters degree in Electrical & Electronic Engineering from [UCC]*
+- *Master's degree in Electrical & Electronic Engineering from [UCC]*
 - *Electronics Enthusiast*
 
 ### Programming Languages
