@@ -10,10 +10,15 @@
 
 ![c-icon]
 ![python-icon]
-![rust-icon]
-![asm-icon]
+![x86-asm-icon]
+![arm-asm-icon]
+![riscv-asm-icon]\
 ![cpp-icon]
-![shell-icon]
+![rust-icon]
+![bash-icon]
+![lua-icon]
+![ruby-icon]
+![matlab-icon]
 
 ### Tools
 
@@ -21,7 +26,7 @@
 ![git-icon]
 ![github-actions-icon]
 
-### Where to find me
+### Links
 
 [![website-icon]][website]
 [![linkedin-icon]][linkedin]
@@ -50,10 +55,15 @@
 
 [c-icon]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
 [python-icon]: https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white
+[x86-asm-icon]: https://img.shields.io/badge/x86/x86__64_assembly-%23bb4444.svg?style=for-the-badge
+[arm-asm-icon]: https://img.shields.io/badge/arm_assembly-%230091bd.svg?style=for-the-badge&logo=arm&logoColor=white
+[riscv-asm-icon]: https://img.shields.io/badge/riscv_assembly-%23282828.svg?style=for-the-badge
 [rust-icon]: https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white
-[asm-icon]: https://img.shields.io/badge/assembly-%23bb4444.svg?style=for-the-badge
 [cpp-icon]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
-[shell-icon]: https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
+[bash-icon]: https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
+[lua-icon]: https://img.shields.io/badge/lua-%232c2d72.svg?style=for-the-badge&logo=lua&logoColor=white
+[ruby-icon]: https://img.shields.io/badge/ruby-%23cc342d.svg?style=for-the-badge&logo=ruby&logoColor=white
+[matlab-icon]: https://img.shields.io/badge/matlab-%230076a8.svg?style=for-the-badge
 
 [vscode-icon]: https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [git-icon]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
