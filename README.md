@@ -30,8 +30,6 @@
 [![github-stats]][stats-repo]\
 <sup>*Created using [staticintlucas/readme-stats][stats-repo]*</sup>
 
-![hits]
-
 <!-- Links -->
 
 [qualcomm]: https://www.qualcomm.com/
@@ -83,5 +81,3 @@
 [linkedin-icon]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [website-icon]: https://img.shields.io/badge/website-%23417c8c.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAxNCAxNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJNMCAwdjE0aDE0di0xNHpNMS41IDVoMi41bDAgNS41YzAgMC43NSAwLjUgMC43NSAxLjUgMC41bDAuMyAwLjhjLTEuMyAwLjQ1LTIuOCAwLjQ1LTIuOC0xLjN2LTQuNWgtMS41eiIvPjwvc3ZnPg==
 [github-icon]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
-
-[hits]: https://vbr.wocr.tk/badge?page_id=staticintlucas.staticintlucas&text=Page_Views&style=for-the-badge&non-unique=true
